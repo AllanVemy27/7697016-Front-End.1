@@ -3,14 +3,15 @@
         "id": 1,
         "nom": "Ampoule LED",
         "prix": 60,
-        "categorie": "Optiques"
-        "image" : 
+        "categorie": "Optiques",
+        "image": "images/ampoule-led.png"
     },
     {
         "id": 2,
         "nom": "Plaquettes de frein (x4)",
         "prix": 40,
-        "categorie": "Freinage"
+        "categorie": "Freinage",
+        "image": "images/plaquettes-frein.png"
     },
     {
         "id": 3,
